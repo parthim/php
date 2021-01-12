@@ -54,3 +54,7 @@ body {
   height: auto;
   object-fit:fill;
 }
+footer {
+  background-color: #0000ff;
+  color: #fff;
+}

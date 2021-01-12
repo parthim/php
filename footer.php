@@ -1,5 +1,4 @@
-<footer style="background-color: #0000ff;">
-    <div class="row " style="color: #fff;">
+    <div class="row justify-content-start" style="color: #fff;">
         <div class="col">
             @2020 Wheelmode. All rights Reserved.
         </div>
@@ -8,5 +7,3 @@
         </div>
         <div class="col">Privacy Policy</div>
     </div>
-                
-</footer>
